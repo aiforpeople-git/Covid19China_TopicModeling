@@ -6,4 +6,4 @@ This repository explores topic modeling for a corpus of tweets related to the Co
  - [Technical Article I](https://medium.com/ai-for-people/the-rise-of-sinophobia-on-twitter-during-the-covid-19-pandemic-technical-part-1-abebd2bd57d4)
  - [Technical Article II](https://medium.com/ai-for-people/the-rise-of-sinophobia-on-twitter-during-the-covid-19-pandemic-technical-part-2-384917ddd16d)
  
-## Focus of this repository is the Topic Modeling
+## Start in the provided [notebook!](https://github.com/aiforpeople-git/Covid19China_TopicModeling/blob/master/src/Topic_Modeling_LDA.ipynb)
